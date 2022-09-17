@@ -1,8 +1,7 @@
 - Hi, I’m @ValentaCodes
 - I’m interested in music, programming, and studying things that complicate me.
-- I’m currently learning Python on Udemy and "Python Crash Course by Eric Matthes"
-- I’m looking to collaborate on anything and everything!
-- How to reach me: Just reach out!
+- I’m currently enrolled in coding bootcamp at the U of U!
+- How to reach me: Instagram: c.v4lenta
 
 <!---
 ValentaCodes/ValentaCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
