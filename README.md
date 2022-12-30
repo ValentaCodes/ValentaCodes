@@ -7,13 +7,26 @@
   </a>
 </div>
 
-## About me
+---
 
-Hey everyone! My name is Cornelius but I go by *ValentaCodes*
+# About me: 
 
-I am a coding boot camp student at the University of Utah. I’m interested in music, programming, and studying things that complicate me. 
+I'm a Full-Stack Software Developer from Utah
 
+- In my free time, I read tech articles, solve problems on Codewars, and spend time with my family.
 
+- Interested in music, programming, and studying things that complicate me
+
+## My Technology Stack: 
+
+- JavaScript 
+- HTML/CSS
+- Node
+- React
+- Next.js
+- MongoDB
+- MySQL
+- Git
 
 <!---
 ValentaCodes/ValentaCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
