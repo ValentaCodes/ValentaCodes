@@ -1,4 +1,8 @@
-# About me
+<div id="header" align="center">
+<img https://giphy.com/stickers/computer-stress-desk-jPAojooBlYhDipIP5l/>
+</div>
+
+## About me
 
 Hey everyone! My name is Cornelius but I go by *ValentaCodes*
 
