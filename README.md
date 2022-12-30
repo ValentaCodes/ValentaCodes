@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img https://giphy.com/stickers/computer-stress-desk-jPAojooBlYhDipIP5l/>
+<img src="https://giphy.com/stickers/computer-stress-desk-jPAojooBlYhDipIP5l"/>
 </div>
 
 ## About me
