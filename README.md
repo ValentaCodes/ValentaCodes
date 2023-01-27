@@ -11,7 +11,7 @@
 
 # About me: 
 
-I'm a Full-Stack Software Developer from Utah
+I'm a Full-Stack Software Engineer from Utah
 
 - In my free time, I read tech articles, solve problems on Codewars, and spend time with my family.
 
