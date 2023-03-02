@@ -26,6 +26,7 @@ I'm a Full-Stack Software Engineer from Utah
 - Next.js
 - MongoDB
 - MySQL
+- GraphQL
 - Git
 
 <!---
