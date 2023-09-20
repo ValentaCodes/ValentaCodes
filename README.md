@@ -17,17 +17,19 @@ I'm a Full-Stack Software Engineer from Utah
 
 - Interested in music, programming, and studying things that complicate me
 
-## My Technology Stack: 
+## Skills: 
 
-- JavaScript 
+- JavaScript
+- Typescript
 - HTML/CSS
-- Node
+- Node.js
 - React
 - Next.js
 - MongoDB
 - MySQL
 - GraphQL
 - Git
+- Jenkins
 
 <!---
 ValentaCodes/ValentaCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
