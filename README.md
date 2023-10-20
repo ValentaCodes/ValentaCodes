@@ -13,7 +13,7 @@
 
 I'm a Full-Stack Software Engineer from Utah
 
-- In my free time, I read tech articles, solve problems on Codewars, and spend time with my family.
+- In my free time, I read tech articles, solve problems on HackerRank, and spend time with my family.
 
 - Interested in music, programming, and studying things that complicate me
 
