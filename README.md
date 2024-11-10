@@ -9,29 +9,16 @@
 
 ---
 
-# About me: 
+***Just a guy who likes to learn***
 
-I'm a Full-Stack Software Engineer from Utah
+### University of Utah
+*BS Computer Science - Currently Seeking Internships*
 
-- In my free time, I read tech articles, solve problems on HackerRank, and spend time with my family.
-
-- Interested in music, programming, and studying things that complicate me
-
-## Skills: 
-
-- JavaScript
-- Typescript
-- HTML/CSS
-- Node.js
-- React
-- Next.js
-- MongoDB
-- MySQL
-- GraphQL
-- Git
-- Jenkins
-
-<!---
-ValentaCodes/ValentaCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Ex-SWE Intern @ Ancestry
+  *Employed Skills*
+  - JavaScript
+  - HTML/CSS
+  - React
+  - Git
+  - Jenkins
+  - NewRelic
