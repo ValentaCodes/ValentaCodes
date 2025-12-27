@@ -12,13 +12,5 @@
 ***Just a guy who likes to learn***
 
 ### University of Utah
-*BS Computer Science - Currently Seeking Internships*
+*BS Computer Science - Seeking 2026 Internships*
 
-### Ex-SWE Intern @ Ancestry
-  *Employed Skills*
-  - JavaScript
-  - HTML/CSS
-  - React
-  - Git
-  - Jenkins
-  - NewRelic
