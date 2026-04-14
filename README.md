@@ -9,7 +9,7 @@
 
 ---
 
-***Just a guy who likes to learn***
+**CRITICAL THINKING AND COMMUNICATION INCLUDED***
 
 ### University of Utah
 *BS Computer Science - Seeking 2026 Internships*
